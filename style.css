@@ -2,8 +2,12 @@
 h4{
     vertical-align: top;
     color: white;
+    float: right;
+}
+
+#icon{
     text-align: right;
-   
+    vertical-align: top;
 }
 
 h5{

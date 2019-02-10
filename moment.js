@@ -1,4 +1,4 @@
-// console.log(moment().format('h:mm A'))
+
 
 function time(){
 
