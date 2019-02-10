@@ -1,0 +1,41 @@
+
+h4{
+    vertical-align: top;
+    color: white;
+    text-align: right;
+   
+}
+
+h5{
+    vertical-align: top;
+    color: white;
+    text-align: right;
+}
+
+#time{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    margin-top: 170px
+}
+
+
+
+#greeting{
+    text-align: center;
+    color:white;
+    font-size: 30px;
+}
+
+p{
+    text-align: center;
+    color: white;
+    margin-top: 150px;
+    font-size: 15px;
+}
+
+footer{
+    font-size: 15px;
+    text-align: center;
+    color: white;
+}
